@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071648157249",
+    "firebase_url": "https://shareo-339be.firebaseio.com",
+    "project_id": "shareo-339be",
+    "storage_bucket": "shareo-339be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071648157249:android:6fe3f5bd305e446ac7a0c0",
+        "android_client_info": {
+          "package_name": "com.example.shareo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071648157249-r35r432pt8hpvl1jmejfq4nh4jtvkm0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5eFv97bjRhB2NbvlZVqkJwAfkVdd262Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071648157249-r35r432pt8hpvl1jmejfq4nh4jtvkm0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
